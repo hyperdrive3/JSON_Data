@@ -1,14 +1,14 @@
 {
 
     	"buses":[
-    		{"id":"0", "location":"Orbiter"},
+    	       	{"id":"0", "location":"Orbiter"},
     			{"id":"1", "location":"Pukete"},
     			{"id":"2", "location":"Silverdale"},
     			{"id":"3", "location":"Dinsdale"},    			
     			{"id":"4", "location":"Flagstaff"},
      			{"id":"4N", "location":"Flagstaff North"},
     			{"id":"5", "location":"Chartwell"},
-    			{"id":"6", "location":"Mahoe"},
+            	{"id":"5", "location":"Chartwell"},
     			{"id":"7", "location":"Glenview"},
     			{"id":"8", "location":"Frankton"},
     			{"id":"9", "location":"Nawton"},
