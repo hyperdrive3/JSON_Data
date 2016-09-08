@@ -1,22 +1,13 @@
 {
-    "glossary": {
-        "title": "example glossary",
-		"GlossDiv": {
-            "title": "S",
-			"GlossList": {
-                "GlossEntry": {
-                    "ID": "SGML",
-					"SortAs": "SGML",
-					"GlossTerm": "Standard Generalized Markup Language",
-					"Acronym": "SGML",
-					"Abbrev": "ISO 8879:1986",
-					"GlossDef": {
-                        "para": "A meta-markup language, used to create markup languages such as DocBook.",
-						"GlossSeeAlso": ["GML", "XML"]
-                    },
-					"GlossSee": "markup"
-                }
-            }
-        }
+    "busit_data": {
+    	"buses":[
+    			{"id":"1", "location":"Pukete"},
+    			{"id":"2", "location":"Silverdale"},
+    			{"id":"3", "location":"Dinsdale"},    			
+    			{"id":"4", "location":"Flagstaff"},
+     			{"id":"4N", "location":"Flagstaff North"},
+    			{"id":"5", "location":"Chartwell"}     			
+    		]
+       
     }
 }
