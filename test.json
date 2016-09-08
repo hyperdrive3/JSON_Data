@@ -8,24 +8,7 @@
     			{"id":"4", "location":"Flagstaff"},
      			{"id":"4N", "location":"Flagstaff North"},
     			{"id":"5", "location":"Chartwell"},
-    			{"id":"6", "location":"Mahoe"},
-    			{"id":"7", "location":"Glenview"},
-    			{"id":"8", "location":"Frankton"},
-    			{"id":"9", "location":"Nawton"},
-    			{"id":"10", "location":"Hillcrest"},
-    			{"id":"11", "location":"Fairfield"},
-    			{"id":"12", "location":"Fitzroy"},
-    			{"id":"13", "location":"University"},
-    			{"id":"14", "location":"Claudelands"},
-    			{"id":"15", "location":"Ruakura"},
-    			{"id":"16", "location":"Rototuna"},
-    			{"id":"17", "location":"Hamilton East Uni"},
-    			{"id":"18", "location":"Te Rapa"},
-    			{"id":"21", "location":"Northern Connector"},
-    			{"id":"26", "location":"Bremworth Temple View"},
-    			{"id":"29", "location":"Lake and Gardens"},
-    			{"id":"30", "location":"Northerner"},
-    			{"id":"51", "location":"CBD Shuttle"}
+    	
     			
     		]
        
