@@ -1,5 +1,5 @@
 {
-    "busit_data": {
+
     	"buses":[
     			{"id":"1", "location":"Pukete"},
     			{"id":"2", "location":"Silverdale"},
@@ -9,5 +9,5 @@
     			{"id":"5", "location":"Chartwell"}     			
     		]
        
-    }
+    
 }
