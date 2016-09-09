@@ -27,7 +27,8 @@
     			{"pk":"23","routeId":"30", "location":"Northerner"},
     			{"pk":"24","routeId":"RDE", "location":"Rototuna Direct East"},
     			{"pk":"25","routeId":"RDW", "location":"Rototuna Direct West"},
-    			{"pk":"26","routeId":"51", "location":"CBD Shuttle"}
+    			{"pk":"26","routeId":"51", "location":"CBD Shuttle"},
+    			{"pk":"27","routeId":"N", "location":"Night Rider"}
     	
     		]
        
