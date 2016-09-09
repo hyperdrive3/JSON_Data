@@ -6,9 +6,9 @@
     			{"pk":"2", "routeId":"2", "location":"Silverdale"},
     			{"pk":"3", "routeId":"3", "location":"Dinsdale"},    			
     			{"pk":"4", "routeId":"4", "location":"Flagstaff"},
-     			{"pk":"5", "routeId":"4n", "location":"Flagstaff North"},
+    			{"pk":"5", "routeId":"4n", "location":"Flagstaff North"},
     			{"pk":"6", "routeId":"5", "location":"Chartwell"},
-            	{"pk":"7", "routeId":"6", "location":"Mahoe"},
+    			{"pk":"7", "routeId":"6", "location":"Mahoe"},
     			{"pk":"8", "routeId":"7", "location":"Glenview"},
     			{"pk":"9", "routeId":"8", "location":"Frankton"},
     			{"pk":"10", "routeId":"9", "location":"Nawton"},
@@ -29,7 +29,6 @@
     			{"pk":"25","routeId":"RDW", "location":"Rototuna Direct West"},
     			{"pk":"26","routeId":"51", "location":"CBD Shuttle"}
     	
-    			
     		]
        
     
