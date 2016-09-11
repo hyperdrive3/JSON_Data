@@ -208,5 +208,120 @@
       }
     ]
   },
-  "weekend": {}
+  "weekend": {
+    "clockwise": [
+      {
+        "Transport Center": {
+          "Platform": "Q",
+          "ArriveOrDepart": "Departing",
+          "Times": [
+            8.1,
+            9.1,
+            10.1,
+            11.1,
+            12.1,
+            1.1,
+            2.1,
+            3.1,
+            4.1,
+            5.1,
+            6.1
+          ]
+        }
+      },
+      {
+        "Te Aroha/Peachgrove": {
+          "ArriveOrDepart": "Arrive",
+          "Times": [
+            8.18,
+            9.2,
+            10.2,
+            11.2,
+            12.2,
+            1.2,
+            2.2,
+            3.2,
+            4.2,
+            5.2,
+            6.18
+          ]
+        }
+      },
+      {
+        "University": {
+          "ArriveOrDepart": "Arrive",
+          "Times": [
+            8.32,
+            9.35,
+            10.35,
+            11.35,
+            12.35,
+            1.35,
+            2.35,
+            3.35,
+            4.35,
+            5.35,
+            6.32
+          ]
+        }
+      }
+    ],
+    "anticlockwise": [
+      {
+        "University": {
+          "ArriveOrDepart": "Departing",
+          "Times": [
+            7.4,
+            8.4,
+            9.4,
+            10.4,
+            11.4,
+            12.4,
+            1.4,
+            2.4,
+            3.4,
+            4.4,
+            5.4
+          ]
+        }
+      },
+      {
+        "Te Aroha/Peachgrove": {
+          "ArriveOrDepart": "Arrive",
+          "Times": [
+            7.48,
+            8.5,
+            9.5,
+            10.5,
+            11.5,
+            12.5,
+            1.5,
+            2.5,
+            3.5,
+            4.5,
+            5.48
+          ]
+        }
+      },
+      {
+        "Transport Center": {
+          "Platform": "Q",
+          "ArriveOrDepart": "Arriving",
+          "Times": [
+            8.02,
+            9.05,
+            10.05,
+            11.05,
+            12.05,
+            1.05,
+            2.05,
+            3.05,
+            4.05,
+            5.05,
+            6.02
+          ]
+        }
+      }
+    ]
+  }
 }
