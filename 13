@@ -1,4 +1,9 @@
 {
+  "busstops": [
+    "Transport Center",
+    "Te Aroha/Peachgrove",
+    "University"
+  ],
   "weekday": {
     "clockwise": [
       {
