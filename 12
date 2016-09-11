@@ -1,9 +1,8 @@
 {
   "busstops": [
     "Transport Centre",
-    "Fairfield Rd",
-    "Snell Dr",
-    "Wtf"
+    "Fairfield Rd(Woodstock School)",
+    "Snell Dr(Clarkin Shops)"
   ],
   "weekday": {
     "clockwise": [
