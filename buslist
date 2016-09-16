@@ -1,36 +1,144 @@
 {
-
-    	"buses":[
-    	        {"pk":"0", "routeId":"0", "location":"Orbiter"},
-    			{"pk":"1", "routeId":"1", "location":"Pukete"},
-    			{"pk":"2", "routeId":"2", "location":"Silverdale"},
-    			{"pk":"3", "routeId":"3", "location":"Dinsdale"},    			
-    			{"pk":"4", "routeId":"4", "location":"Flagstaff"},
-    			{"pk":"5", "routeId":"4n", "location":"Flagstaff North"},
-    			{"pk":"6", "routeId":"5", "location":"Chartwell"},
-    			{"pk":"7", "routeId":"6", "location":"Mahoe"},
-    			{"pk":"8", "routeId":"7", "location":"Glenview"},
-    			{"pk":"9", "routeId":"8", "location":"Frankton"},
-    			{"pk":"10", "routeId":"9", "location":"Nawton"},
-    			{"pk":"11", "routeId":"10", "location":"Hillcrest"},
-    			{"pk":"12", "routeId":"11", "location":"Fairfield"},
-    			{"pk":"13", "routeId":"12", "location":"Fitzroy"},
-    			{"pk":"14", "routeId":"13", "location":"University"},
-    			{"pk":"15","routeId":"14", "location":"Claudelands"},
-    			{"pk":"16","routeId":"15", "location":"Ruakura"},
-    			{"pk":"17","routeId":"16", "location":"Rototuna"},
-    			{"pk":"18","routeId":"17", "location":"Hamilton East Uni"},
-    			{"pk":"19","routeId":"18", "location":"Te Rapa"},
-    			{"pk":"20","routeId":"21", "location":"Northern Connector"},
-    			{"pk":"21","routeId":"26", "location":"Bremworth Temple View"},
-    			{"pk":"22","routeId":"29", "location":"Lake and Gardens"},
-    			{"pk":"23","routeId":"30", "location":"Northerner"},
-    			{"pk":"24","routeId":"RDE", "location":"Rototuna Direct East"},
-    			{"pk":"25","routeId":"RDW", "location":"Rototuna Direct West"},
-    			{"pk":"26","routeId":"51", "location":"CBD Shuttle"},
-    			{"pk":"27","routeId":"N", "location":"Night Rider"}
-    	
-    		]
-       
-    
+  "buses": [
+    {
+      "pk": "0",
+      "routeId": "0",
+      "location": "Orbiter"
+    },
+    {
+      "pk": "1",
+      "routeId": "1",
+      "location": "Pukete"
+    },
+    {
+      "pk": "2",
+      "routeId": "2",
+      "location": "Silverdale"
+    },
+    {
+      "pk": "3",
+      "routeId": "3",
+      "location": "Dinsdale"
+    },
+    {
+      "pk": "4",
+      "routeId": "4",
+      "location": "Flagstaff"
+    },
+    {
+      "pk": "5",
+      "routeId": "4n",
+      "location": "Flagstaff North"
+    },
+    {
+      "pk": "6",
+      "routeId": "5",
+      "location": "Chartwell"
+    },
+    {
+      "pk": "7",
+      "routeId": "6",
+      "location": "Mahoe"
+    },
+    {
+      "pk": "8",
+      "routeId": "7",
+      "location": "Glenview"
+    },
+    {
+      "pk": "9",
+      "routeId": "8",
+      "location": "Frankton"
+    },
+    {
+      "pk": "10",
+      "routeId": "9",
+      "location": "Nawton"
+    },
+    {
+      "pk": "11",
+      "routeId": "10",
+      "location": "Hillcrest"
+    },
+    {
+      "pk": "12",
+      "routeId": "11",
+      "location": "Fairfield"
+    },
+    {
+      "pk": "13",
+      "routeId": "12",
+      "location": "Fitzroy"
+    },
+    {
+      "pk": "14",
+      "routeId": "13",
+      "location": "University"
+    },
+    {
+      "pk": "15",
+      "routeId": "14",
+      "location": "Claudelands"
+    },
+    {
+      "pk": "16",
+      "routeId": "15",
+      "location": "Ruakura"
+    },
+    {
+      "pk": "17",
+      "routeId": "16",
+      "location": "Rototuna"
+    },
+    {
+      "pk": "18",
+      "routeId": "17",
+      "location": "Hamilton East Uni"
+    },
+    {
+      "pk": "19",
+      "routeId": "18",
+      "location": "Te Rapa"
+    },
+    {
+      "pk": "20",
+      "routeId": "21",
+      "location": "Northern Connector"
+    },
+    {
+      "pk": "21",
+      "routeId": "26",
+      "location": "Bremworth Temple View"
+    },
+    {
+      "pk": "22",
+      "routeId": "29",
+      "location": "Lake and Gardens"
+    },
+    {
+      "pk": "23",
+      "routeId": "30",
+      "location": "Northerner"
+    },
+    {
+      "pk": "24",
+      "routeId": "RDE",
+      "location": "Rototuna Direct East"
+    },
+    {
+      "pk": "25",
+      "routeId": "RDW",
+      "location": "Rototuna Direct West"
+    },
+    {
+      "pk": "26",
+      "routeId": "51",
+      "location": "CBD Shuttle"
+    },
+    {
+      "pk": "27",
+      "routeId": "N",
+      "location": "Night Rider"
+    }
+  ]
 }
