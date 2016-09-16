@@ -113,7 +113,7 @@
           ]
         }
       },
-            {
+      {
         "Te Aroha/Peachgrove": {
           "ArriveOrDepart": "Arrive",
           "Times": [
@@ -321,7 +321,7 @@
           ]
         }
       },
-            {
+      {
         "Te Aroha/Peachgrove": {
           "ArriveOrDepart": "Arrive",
           "Times": [
@@ -482,7 +482,8 @@
           ]
         }
       },
-      {    "Transport Center": {
+      {
+        "Transport Center": {
           "Platform": "Q",
           "ArriveOrDepart": "Departing",
           "Times": [
@@ -593,7 +594,8 @@
           ]
         }
       },
-        {      "Transport Center": {
+      {
+        "Transport Center": {
           "Platform": "Q",
           "ArriveOrDepart": "Departing",
           "Times": [
