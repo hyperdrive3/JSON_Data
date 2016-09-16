@@ -77,7 +77,7 @@
           ]
         }
       },
-              "Transport Center": {
+      {"Transport Center": {
           "Platform": "Q",
           "ArriveOrDepart": "Departing",
           "Times": [
@@ -214,7 +214,7 @@
           ]
         }
       },
-              "Transport Center": {
+      {"Transport Center": {
           "Platform": "Q",
           "ArriveOrDepart": "Departing",
           "Times": [
