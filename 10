@@ -5,7 +5,7 @@
     "Rotokauri Rd",
     "Tasman Rd"
   ],
-"weekday": {
+  "weekday": {
     "clockwise": [
       {
         "Transport Center": {
@@ -76,7 +76,7 @@
           ]
         }
       },
-       {
+      {
         "Te Aroha/Peachgrove": {
           "ArriveOrDepart": "Arrive",
           "Times": [
@@ -212,7 +212,7 @@
           ]
         }
       },
-           {
+      {
         "Te Aroha/Peachgrove": {
           "ArriveOrDepart": "Arrive",
           "Times": [
@@ -321,7 +321,7 @@
           ]
         }
       },
-           {
+      {
         "Te Aroha/Peachgrove": {
           "ArriveOrDepart": "Arrive",
           "Times": [
@@ -411,7 +411,7 @@
           ]
         }
       },
-           {
+      {
         "Te Aroha/Peachgrove": {
           "ArriveOrDepart": "Arrive",
           "Times": [
